@@ -1,0 +1,22 @@
+{
+  "name": "tutorial_nodejs",
+  "version": "1.0.0",
+  "description": "App base para tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "Francisco Angelim & Túlio Escarião",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.4.0",
+    "mongoose": "^4.6.6",
+    "validator": "^6.1.0"
+  }
+}
